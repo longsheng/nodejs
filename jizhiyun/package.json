@@ -1,0 +1,15 @@
+{
+  "name": "sslclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sslclient.js",
+  "dependencies": {
+    "babel-cli": "^6.24.0",
+    "log4js": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,732 @@
+[2017-04-10 15:46:21.166] [DEBUG] logger - 开始连接服务器...
+[2017-04-10 15:46:21.174] [DEBUG] logger - 程序主线程结束...
+[2017-04-10 15:46:21.945] [DEBUG] logger - 服务器连接成功...
+[2017-04-10 15:46:21.946] [DEBUG] logger - 开始登录...
+[2017-04-10 15:46:22.081] [DEBUG] logger - <<-----------(server return)--------------
+[2017-04-10 15:46:22.081] [DEBUG] logger - { cmd: 'login_res', data: { result: true, msg: 'ok' } }
+[2017-04-10 15:46:22.087] [DEBUG] logger - 登录成功...
+[2017-04-10 15:46:22.088] [DEBUG] logger - <<----------(server return end)-------------
+[2017-04-10 15:46:28.502] [DEBUG] logger - <<-----------(server return)--------------
+[2017-04-10 15:46:28.503] [DEBUG] logger - { cmd: 'event_push',
+  delivery_id: 1,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491810389.964,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099005200790041003200110018000000000000000' } }
+[2017-04-10 15:46:28.511] [DEBUG] logger - 设备推送
+[2017-04-10 15:46:28.512] [DEBUG] logger - 事件处理路由...
+[2017-04-10 15:46:28.513] [DEBUG] logger - 设备事件3
+[2017-04-10 15:46:28.517] [DEBUG] logger - cmd=event_push&delivery_id=1&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491810389.964&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099005200790041003200110018000000000000000
+[2017-04-10 15:46:28.543] [DEBUG] logger - >>--------ack-----------
+[2017-04-10 15:46:28.544] [DEBUG] logger - <<----------(server return end)-------------
+[2017-04-10 15:46:28.748] [DEBUG] logger - { errno: 0, errmsg: '', data: '' }
+[2017-04-10 15:46:57.214] [DEBUG] logger - <<-----------(server return)--------------
+[2017-04-10 15:46:57.217] [DEBUG] logger - { cmd: 'event_push',
+  delivery_id: 2,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491810418.666,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099005200790041003200110018000000000000000' } }
+[2017-04-10 15:46:57.221] [DEBUG] logger - 设备推送
+[2017-04-10 15:46:57.222] [DEBUG] logger - 事件处理路由...
+[2017-04-10 15:46:57.222] [DEBUG] logger - 设备事件3
+[2017-04-10 15:46:57.223] [DEBUG] logger - cmd=event_push&delivery_id=2&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491810418.666&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099005200790041003200110018000000000000000
+[2017-04-10 15:46:57.233] [DEBUG] logger - >>--------ack-----------
+[2017-04-10 15:46:57.234] [DEBUG] logger - <<----------(server return end)-------------
+[2017-04-10 15:46:57.445] [DEBUG] logger - { errno: 0, errmsg: '', data: '' }
+[2017-04-10 15:47:22.090] [DEBUG] logger - --->ping
+[2017-04-10 15:47:22.110] [DEBUG] logger - <<-----------(server return)--------------
+[2017-04-10 15:47:22.111] [DEBUG] logger - { cmd: 'pong' }
+[2017-04-10 15:47:22.112] [DEBUG] logger - <<---pong!
+[2017-04-10 15:47:22.112] [DEBUG] logger - <<----------(server return end)-------------
+开始连接服务器...
+程序主线程结束...
+服务器连接成功...
+开始登录...
+<<-----------(server return)--------------
+{ cmd: 'login_res', data: { result: true, msg: 'ok' } }
+登录成功...
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 1,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491810512.304,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099005200790041003200110018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=1&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491810512.304&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099005200790041003200110018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 2,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491811113.723,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099005200790041003200110018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=2&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491811113.723&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099005200790041003200110018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 3,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491811127.472,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099005200790041003200110018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=3&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491811127.472&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099005200790041003200110018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 4,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491814889.495,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099004200790041003200110018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=4&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491814889.495&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099004200790041003200110018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 5,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491814913.17,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010099004200790041003200190018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=5&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491814913.17&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010099004200790041003200190018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 6,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491814932.141,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010039004200790041003200190018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=6&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491814932.141&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010039004200790041003200190018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 7,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491815697.382,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010039004200790061003200190018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=7&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491815697.382&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010039004200790061003200190018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 8,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491815712.664,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010029004200790061003200190018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=8&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491815712.664&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010029004200790061003200190018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 9,
+  event_type: 'device_status_kv',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491815770.613,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null,
+  data: { test: '103201610000101010039006600790061003200190018000000000000000' } }
+设备推送
+事件处理路由...
+设备事件3
+cmd=event_push&delivery_id=9&event_type=device_status_kv&did=VYgSvzPJpe592rGiQUQRYg&created_at=1491815770.613&product_key=54bda8c5942943e3934cffd410f25438&mac=virtual%3Asite&group_id=&data=103201610000101010039006600790061003200190018000000000000000
+>>--------ack-----------
+<<----------(server return end)-------------
+{ errno: 0, errmsg: '', data: '' }
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+<<-----------(server return)--------------
+{ cmd: 'event_push',
+  delivery_id: 10,
+  event_type: 'device_offline',
+  did: 'VYgSvzPJpe592rGiQUQRYg',
+  created_at: 1491816363.72,
+  product_key: '54bda8c5942943e3934cffd410f25438',
+  mac: 'virtual:site',
+  group_id: null }
+设备推送
+事件处理路由...
+设备离线
+>>--------ack-----------
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------

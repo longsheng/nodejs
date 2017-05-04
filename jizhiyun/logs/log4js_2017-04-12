@@ -1,0 +1,2008 @@
+开始连接服务器...
+程序主线程结束...
+服务器连接成功...
+开始登录...
+<<-----------(server return)--------------
+{ cmd: 'login_res', data: { result: true, msg: 'ok' } }
+登录成功...
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
+--->ping
+<<-----------(server return)--------------
+{ cmd: 'pong' }
+<<---pong!
+<<----------(server return end)-------------
