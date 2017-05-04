@@ -21,7 +21,7 @@ export default class extends Base {
         let ret = await logmodel.createItems(get);
         log.debug(ret);
         if (ret.length == 0) {
-            //**
+            //**##
             this.fail('USER_NOT_FOUND');
         } else {
             this.success(ret);
