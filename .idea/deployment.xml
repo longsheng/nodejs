@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="139.129.53.128">
+    <serverData>
+      <paths name="139.129.53.128">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nodejs" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/jizhiyun/node_modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/mqttserver/node_modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/webserver/node_modules" />
+            <excludedPath path="/nodejs/webserver/node_modules" />
+            <excludedPath path="/nodejs/webserver/app" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

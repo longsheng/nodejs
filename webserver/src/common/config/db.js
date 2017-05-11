@@ -17,7 +17,7 @@ export default {
         },
         mysql2: {
             type: 'mysql', //这里需要将 type 重新设置为 mysql
-            host: '127.0.0.1',
+            host: '139.129.53.128',
             port: '3306',
             database: 'ls_pinhongbao',
             user: 'root',
