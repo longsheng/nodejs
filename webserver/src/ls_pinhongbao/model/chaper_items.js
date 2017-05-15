@@ -9,4 +9,13 @@ export default class extends think.model.base {
         log.debug(data);
         return this.add(data);
     }
+    async getItemsByChaperId(chaper_id){
+        log.debug("getItemsByChaperId()");
+        log.debug(chaper_id);
+        return this.join({
+            table: 'user_info',
+            join: 'inner',
+            on: ['player_id', 'id']
+        }).where({'chaper_id':chaper_id}).select();
+    }
 }
