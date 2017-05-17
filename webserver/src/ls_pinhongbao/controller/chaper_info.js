@@ -15,7 +15,7 @@ export default class extends Base {
 
     async createInfoAction() {
         let get = this.get();
-        let M_chaper_info = this.model('chaper_info', 'mysql2');
+        let M_chaper_info = this.model('chaper_info');
         let data={};
         data.chapter_per_money=get.permoney;
         data.create_userid=get.create_userid;
@@ -23,15 +23,15 @@ export default class extends Base {
         data.name=get.name;
         let ret = await M_chaper_info.createInfo(data);
         if (ret.length === 0) {
-            this.fail('CREATE_INFO_FAIL');
+            this.fail('创建开局信息失败');
         } else {
             log.debug("创建开局信息成功。");
             log.debug("需要把自己加入参与信息列表");
-            let M_user_info = this.model('user_info', 'mysql2');
+            let M_user_info = this.model('user_info');
             let data1={};
             data1.chaper_id=ret;
             data1.player_id=data.create_userid;
-            let M_chaper_items = this.model('chaper_items','mysql2');
+            let M_chaper_items = this.model('chaper_items');
             ret = await M_chaper_items.add(data1);
             this.success(ret);
         }
@@ -39,11 +39,11 @@ export default class extends Base {
     async getInfoListAction(){
         let get = this.get();
         log.debug(get);
-        let logmodel = this.model('chaper_info', 'mysql2');
+        let logmodel = this.model('chaper_info');
         let ret = await logmodel.getInfoList();
         log.debug(ret.length);
         if(ret.length < 1){
-            this.fail('GET_INFO_LIST_ERROR');
+            this.fail('获取牌局列表出错');
         }else {
             this.success(ret);
         }

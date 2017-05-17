@@ -7,15 +7,6 @@ export default {
     type: 'mysql',
     adapter: {
         mysql: {
-            host: '127.0.0.1',
-            port: '3306',
-            database: 'ls_waterheater',
-            user: 'root',
-            password: 'x5',
-            prefix: '',
-            encoding: 'utf8'
-        },
-        mysql2: {
             type: 'mysql', //这里需要将 type 重新设置为 mysql
             host: '139.129.53.128',
             port: '3306',

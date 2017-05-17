@@ -15,11 +15,11 @@ export default class extends Base {
 
     async getUserInfoAction() {
         let get = this.get();
-        let logmodel = this.model('user_info', 'mysql2');
+        let logmodel = this.model('user_info');
         let ret = await logmodel.getUserInfo(get.uuid);
         log.debug(ret);
         if (ret.length == 0) {
-            this.fail('USER_NOT_FOUND');
+            this.fail('用户没有找到');
         } else {
             this.success(ret);
         }
@@ -27,13 +27,13 @@ export default class extends Base {
 
     async regUserAction(data) {
         let get = this.get()
-        let model_user_info = this.model('user_info', 'mysql2');
+        let model_user_info = this.model('user_info');
         log.debug(get);
         get.money = 0;   //第二次验证，确保用户注册时金钱为0
         log.debug(get);
         let ret = await model_user_info.regUser(get);
         if (ret.length == 0) {
-            this.fail('USER_REG_FAIL');
+            this.fail('用户注册失败');
         } else {
             this.success(ret);
         }
