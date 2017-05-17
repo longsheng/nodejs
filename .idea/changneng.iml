@@ -3,9 +3,18 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/jizhiyun/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/jizhiyun/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/mqttserver/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/webserver/app" />
+      <excludeFolder url="file://$MODULE_DIR$/webserver/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/webserver/node_modules" />
     </content>
+    <content url="file://$MODULE_DIR$/jizhiyun/node_modules" />
+    <content url="file://$MODULE_DIR$/mqttserver/node_modules" />
+    <content url="file://$MODULE_DIR$/webserver/node_modules" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
