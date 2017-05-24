@@ -16,6 +16,6 @@ export default class extends think.model.base {
             table: 'user_info',
             join: 'inner',
             on: ['player_id', 'id']
-        }).field(['user_info.mobile']).where({'chaper_id':chaper_id}).select();
+        }).field(['user_info.mobile','user_info.id']).where({'chaper_id':chaper_id}).select();
     }
 }

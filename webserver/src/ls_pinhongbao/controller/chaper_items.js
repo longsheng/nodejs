@@ -30,12 +30,11 @@ export default class extends Base {
 
     async getItemsByChaperIdAction() {
         let get = this.get();
-        let M_chaper_items = this.model('chaper_items');
         if (get.chaper_id == undefined || get.chaper_id < 1) {
             this.fail('用户的编号没有传入，或者不正确');
             return;
         }
-        let ret = await  M_chaper_items.getItemsByChaperId(get.chaper_id);
+        let ret = await  this.model('chaper_items').getItemsByChaperId(get.chaper_id);
         log.debug(ret);
         if (ret.length == 0) {
             //**#####

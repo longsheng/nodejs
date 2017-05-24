@@ -13,15 +13,18 @@ export default class extends Base {
         return this.display();
     }
 
+    /**
+     * 创建一句新游戏
+     * @returns {Promise.<void>}
+     */
     async createInfoAction() {
         let get = this.get();
-        let M_chaper_info = this.model('chaper_info');
         let data={};
         data.chapter_per_money=get.permoney;
         data.create_userid=get.create_userid;
         data.full_count=get.pernumber;
         data.name=get.name;
-        let ret = await M_chaper_info.createInfo(data);
+        let ret = await this.model('chaper_info').createInfo(data);
         if (ret.length === 0) {
             this.fail('创建开局信息失败');
         } else {
@@ -31,8 +34,7 @@ export default class extends Base {
             let data1={};
             data1.chaper_id=ret;
             data1.player_id=data.create_userid;
-            let M_chaper_items = this.model('chaper_items');
-            ret = await M_chaper_items.add(data1);
+            ret = await this.model('chaper_items').add(data1);
             this.success(ret);
         }
     }
