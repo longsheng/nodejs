@@ -38,11 +38,14 @@ export default class extends Base {
             this.success(ret);
         }
     }
+    async getInfoListJoinedAction(){
+        let get = this.get();
+        let ret = await this.model('chaper_info').getInfoListJoined(get.userid);
+        this.success(ret);
+    }
     async getInfoListAction(){
         let get = this.get();
-        log.debug(get);
-        let logmodel = this.model('chaper_info');
-        let ret = await logmodel.getInfoList();
+        let ret = await this.model('chaper_info').getInfoList(get.userid);
         log.debug(ret.length);
         if(ret.length < 1){
             this.fail('获取牌局列表出错');
