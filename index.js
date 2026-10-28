@@ -46,7 +46,7 @@ const server = http.createServer((req, res) => {
 <body>
   <div class="box">
     <h1>Hello CloudBase 👋</h1>
-    <p>这是一个跑在腾讯云开发云托管上的最小 Node 服务</p>
+    <p>这是一个跑在腾讯云开发云托管上的最小 Node 服务 v0.2</p>
     <p>进程 PID <code>${process.pid}</code> · 已运行 <code>${process.uptime().toFixed(1)}s</code></p>
     <p>访问 <code>/health</code> 查看健康检查结果</p>
   </div>
