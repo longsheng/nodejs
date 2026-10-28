@@ -1,0 +1,7 @@
+{
+  "envId": "osiyun-d4gmi14ql36654170",
+  "$schema": "https://static.cloudbase.net/cli/cloudbaserc.schema.json",
+  "cloudrun": {
+    "name": "api"
+  }
+}

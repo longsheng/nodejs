@@ -4,3 +4,6 @@
 .idea
 .DS_Store
 *.md
+# 本地部署脚本与运行日志，不需要进镜像
+*.bat
+*.log
