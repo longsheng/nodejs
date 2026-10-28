@@ -1,0 +1,13 @@
+{
+  "name": "cloudrun-hello",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CloudBase 云托管最小示例：零依赖 Node HTTP 服务",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
