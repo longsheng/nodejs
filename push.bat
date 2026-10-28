@@ -23,6 +23,15 @@ rem 等待「线上版本与本地一致」的最大轮数，每轮 5 秒
 set "MAXTRY=30"
 rem ------------------------------------
 
+rem ------------------------------------------------------------------
+rem 版本号提取规则（本地 index.js 和线上页面用同一套规则，保证可比）
+rem   index.js 里的写法：<h1>Hello CloudBase Ver:0.0.7</h1>
+rem   · 首选：Ver:0.0.7  -> 取出数字 0.0.7
+rem   · 兜底：v0.6       -> 取出数字 0.6（老写法，兼容用）
+rem 改版式时只改这里，或直接改 index.js 里的 Ver: 写法
+rem ------------------------------------------------------------------
+set "VEREXPR=if ($s -match 'Ver:\s*([0-9.]+)') { Write-Output $matches[1] } elseif ($s -match 'v([0-9]+\.[0-9]+)') { Write-Output $matches[1] }"
+
 set "SRC=%~dp0"
 if "%SRC:~-1%"=="\" set "SRC=%SRC:~0,-1%"
 
@@ -135,9 +144,9 @@ rem  · 网页内容是 UTF-8、窗口是 GBK，直接输出网页中文会乱码，
 rem    因此只用 ASCII 比对版本号来判断是否生效。
 echo [4/4] 等待线上生效 ...
 
-rem 从本地 index.js 里提取版本号（形如 v0.6）
+rem 从本地 index.js 里提取版本号（形如 Ver:0.0.7）
 set "LOCALVER="
-for /f "usebackq delims=" %%v in (`powershell -NoProfile -Command "$s = Get-Content -Raw -Encoding UTF8 'index.js'; if ($s -match 'v[0-9]+\.[0-9]+') { Write-Output $matches[0] }"`) do set "LOCALVER=%%v"
+for /f "usebackq delims=" %%v in (`powershell -NoProfile -Command "$s = Get-Content -Raw -Encoding UTF8 'index.js'; %VEREXPR%"`) do set "LOCALVER=%%v"
 if defined LOCALVER (echo       本地版本 : %LOCALVER%) else (echo       本地版本 : 未识别，将只检查可访问性)
 echo       轮询中，每 5 秒一次，最多 150 秒 ...
 echo.
@@ -146,7 +155,7 @@ set /a TRIES=0
 :verify
 set /a TRIES+=1
 set "ONLINEVER="
-for /f "usebackq delims=" %%v in (`curl -s --max-time 20 "%DOMAIN%/" ^| powershell -NoProfile -Command "$s = [Console]::In.ReadToEnd(); if ($s -match 'v[0-9]+\.[0-9]+') { Write-Output $matches[0] }"`) do set "ONLINEVER=%%v"
+for /f "usebackq delims=" %%v in (`curl -s --max-time 20 "%DOMAIN%/" ^| powershell -NoProfile -Command "$s = [Console]::In.ReadToEnd(); %VEREXPR%"`) do set "ONLINEVER=%%v"
 if not defined ONLINEVER set "ONLINEVER=unknown"
 
 if not defined LOCALVER goto :online_only
